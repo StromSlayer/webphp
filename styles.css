@@ -1,0 +1,15 @@
+.table{
+    border: solid 2px #f8b04c;
+}
+
+.table tr:hover{
+    background-color: rgb(105, 243, 134);
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border : 2px dashed #d61e02

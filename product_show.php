@@ -1,5 +1,5 @@
-<link rel="stylesheet" href="style.css" />
-
+<link rel="stylesheet" href="styles.css" />
+<div class="center"  >
 <?php
  include "connect.php";
 
@@ -42,3 +42,4 @@ if (mysqli_num_rows($result) > 0) {
 mysqli_close($conn);
 
 ?>
+</div>

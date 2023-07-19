@@ -1,5 +1,7 @@
+
+<link href="./styles.css" rel="stylesheet"/>
 <form action="member_insert.php" method="post" enctype="multipart/form-data">
-    ชื่อ  <input type="text" name="firstname" />
+    ชื่อ  <input type="text" name="firstname" /> class="input" />
     นามสกุล  <input type="text" name="lastname" /> <br/>
     อีเมล <input type="email" name="email" /> <br/>
     เบอร์โทร <input type="text" name="phone" /> <br/>
